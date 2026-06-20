@@ -11,4 +11,4 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "Added print-name."
+        run: echo "Hello from GitHub Actions"
